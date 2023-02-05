@@ -52,7 +52,6 @@ package com.Employeewages;
         public String toString () {
             return "Total Emp Wage for Company: " +company+ " is: " + totalEmpWage;
         }
-}
 
         public static void main(String[] args) {
         EmployeeWage kd = new EmployeeWage ("KD", 20, 2, 10);
