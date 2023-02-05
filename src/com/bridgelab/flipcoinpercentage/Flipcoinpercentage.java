@@ -27,8 +27,6 @@ public class Flipcoinpercentage {
         System.out.println("THe value Entered is not Positive value");
         System.exit(0);
         }
-        double headPercent=(headflip*100)/totalFlip;
-        double tailPercent=(tailflip*100)/totalFlip;
         System.out.println("Head flip percentage is : "+headPercent);
         System.out.println("Tail flip percentage is : "+tailPercent);
         }
