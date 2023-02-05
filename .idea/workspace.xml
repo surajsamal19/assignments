@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db56cbe1-bd68-4c7a-9fef-eb8255433738" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabevenodd/Evenodd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabswapnumber/SwapNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
